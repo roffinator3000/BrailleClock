@@ -1,6 +1,13 @@
+# vs code
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.ci
+.vscode/settings.json
+.vscode/BrailleClock.code-workspace
 
 
-# --- git-proposed:
+# --- git-proposed for c++:
 
 # Prerequisites
 *.d
