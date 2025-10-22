@@ -4,7 +4,7 @@ sdkconfig
 sdkconfig.old
 sdkconfig.ci
 .vscode/settings.json
-.vscode/BrailleClock.code-workspace
+**/BrailleClock.code-workspace
 
 
 # --- git-proposed for c++:

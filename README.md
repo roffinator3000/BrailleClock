@@ -1,4 +1,5 @@
-# Vintage style Braille alarm clock
+# The Haptic Chronometer - A Braille based alarm clock
+![banner: "The Haptic Chronometer"](title.png)
 
 ### for lecture "Advanced User Interfaces"
 
@@ -13,7 +14,7 @@ Prof. Dr. Ernst Kruijff, WiSe 2025
 	- set by silder(s) in the back of the clock
 	- (beeps)
 - short info on weather, audio or braille?
-
+- [design document](dd.md)
 
 ![raw render of the clock](image.png)
 (12:45)
