@@ -44,6 +44,7 @@ Prof. Dr. Ernst Kruijff, WiSe 2025
 	- power supply
 		- probably 5v, depending on used motors/actuators
 		- battery?
+- [full BOM](bom.md)
 
 ## Team
 
