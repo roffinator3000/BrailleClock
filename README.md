@@ -14,6 +14,10 @@ Prof. Dr. Ernst Kruijff, WiSe 2025
 	- (beeps)
 - short info on weather, audio or braille?
 
+
+![raw render of the clock](image.png)
+(12:45)
+
 ## BOM
 
 - case
