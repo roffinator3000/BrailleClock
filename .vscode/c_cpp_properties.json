@@ -17,6 +17,26 @@
         ],
         "limitSymbolsToIncludedHeaders": true
       }
+    },
+    {
+      "name": "PlatformIO",
+      "includePath": [
+        "${workspaceFolder}/include",
+        "${workspaceFolder}/lib/**",
+        "C:/Users/louji/.platformio/packages/framework-arduinoespressif32/cores/esp32",
+        "C:/Users/louji/.platformio/packages/framework-arduinoespressif32/libraries/**"
+      ],
+      "browse": {
+        "path": [
+          "${workspaceFolder}/include",
+          "${workspaceFolder}/lib",
+          "C:/Users/louji/.platformio/packages/framework-arduinoespressif32/cores/esp32"
+        ]
+      },
+      "compilerPath": "C:/Users/louji/.platformio/packages/toolchain-xtensa/bin/xtensa-esp32-elf-gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
     }
   ],
   "version": 4
